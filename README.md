@@ -1,42 +1,40 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *UMBC Student Orgs*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jack Winkler**
 
-This web app: **insert description**
+This web app: **Provides information about popular UMBC student led organizations in an easily accessible format, with images, descriptions, and links to more information about each one.**
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
-  - [ ] Header/title describing the theme is displayed
-- [ ] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [ ] There are at least 10 cards displayed 
-  - [ ] The cards should be displayed in an organized format (ex. a grid, or in one line)
-  - [ ] Each card should include some information about the event or resource
+- [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+  - [x] Header/title describing the theme is displayed
+- [x] **At least 10 unique events or resources are displayed in a responsive card format**
+  - [x] There are at least 10 cards displayed 
+  - [x] The cards should be displayed in an organized format (ex. a grid, or in one line)
+  - [x] Each card should include some information about the event or resource
 
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-  - [ ] All cards have buttons or links in addition to text
-- [ ] The site is responsive for both desktop and mobile formats
+- [x] Buttons or links to a related resources are on each card component
+  - [x] All cards have buttons or links in addition to text
+- [ ] The site is responsive for both desktop and mobile formats (not sure)
   - [ ] Web app is shown in a mobile format
+  colors are coordinated to UMBC official rgb colors
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/G0n3wKu' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -45,6 +43,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had a lot of syntactical challenges especially with the css components as I wanted to try lots of different styles, and I had to learn new methods structuring components. This was my first time using .map for the club cards, to get them layedout, and I also had to learn to use display: grid for the css to get them in a 3 by 4 format.
 
 ## License
 
