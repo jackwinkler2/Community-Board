@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="assets/WEB_102_Proj1_Jack_Winkler.gif" alt="Video Walkthrough" width="500" />
+<img src="src/assets/WEB_102_Proj1_Jack_Winkler.gif" alt="Video Walkthrough" width="500" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
