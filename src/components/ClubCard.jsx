@@ -7,7 +7,7 @@ const ClubCard = ({ image, name, description, website }) => {
   };
 
   return (
-    <div className="club-card">
+    <div className="ClubCards">
       <img src={image} alt={"couldn't render image"} style={{ width: "100px" }} />
       <h2>{name}</h2>
       <p>{description}</p>

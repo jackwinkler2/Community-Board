@@ -15,11 +15,70 @@ const Clubs = () => {
             description: "Computer science networking group",
             website: "https://stars.umbc.edu"
         },
+                {
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoReNSnWNxeFPRFjZraFYUb5__FYTTdUkfg&s",
+            name: "STARS Computing Corps",
+            description: "Computer science networking group",
+            website: "https://stars.umbc.edu"
+        },
+                {
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoReNSnWNxeFPRFjZraFYUb5__FYTTdUkfg&s",
+            name: "STARS Computing Corps",
+            description: "Computer science networking group",
+            website: "https://stars.umbc.edu"
+        },
+                {
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoReNSnWNxeFPRFjZraFYUb5__FYTTdUkfg&s",
+            name: "STARS Computing Corps",
+            description: "Computer science networking group",
+            website: "https://stars.umbc.edu"
+        },
+                {
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoReNSnWNxeFPRFjZraFYUb5__FYTTdUkfg&s",
+            name: "STARS Computing Corps",
+            description: "Computer science networking group",
+            website: "https://stars.umbc.edu"
+        },
+                {
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoReNSnWNxeFPRFjZraFYUb5__FYTTdUkfg&s",
+            name: "STARS Computing Corps",
+            description: "Computer science networking group",
+            website: "https://stars.umbc.edu"
+        },
+                {
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoReNSnWNxeFPRFjZraFYUb5__FYTTdUkfg&s",
+            name: "STARS Computing Corps",
+            description: "Computer science networking group",
+            website: "https://stars.umbc.edu"
+        },
+                {
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoReNSnWNxeFPRFjZraFYUb5__FYTTdUkfg&s",
+            name: "STARS Computing Corps",
+            description: "Computer science networking group",
+            website: "https://stars.umbc.edu"
+        },
+                {
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoReNSnWNxeFPRFjZraFYUb5__FYTTdUkfg&s",
+            name: "STARS Computing Corps",
+            description: "Computer science networking group",
+            website: "https://stars.umbc.edu"
+        },
+                {
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoReNSnWNxeFPRFjZraFYUb5__FYTTdUkfg&s",
+            name: "STARS Computing Corps",
+            description: "Computer science networking group",
+            website: "https://stars.umbc.edu"
+        },
+                {
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoReNSnWNxeFPRFjZraFYUb5__FYTTdUkfg&s",
+            name: "STARS Computing Corps",
+            description: "Computer science networking group",
+            website: "https://stars.umbc.edu"
+        },
     ]
 
-
     return ( 
-        <div>
+        <div className = "clubs">
             {clubData.map((club, index) => (
                 <ClubCard
                 key={index}
